@@ -41,6 +41,11 @@ https://velog.io/@sui3422/Upoon-Gallery-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
 **<이종민>**
 - 로그인 (카카오 소셜 로그인)
 - 상세페이지 (페이지 내부 색 변경, 리뷰 업로드, 슬라이드 기능) 
+![slide](https://user-images.githubusercontent.com/80690729/129879625-28399435-5bda-42b1-b6c7-8b8c3b6efe4e.gif)
+![colorchange](https://user-images.githubusercontent.com/80690729/129879701-0f66fb6c-7843-49e9-90c3-4a22309a358b.gif)
+![review](https://user-images.githubusercontent.com/80690729/129879810-4da621c8-849a-461b-9884-e42fac11dda2.gif)
+![layout](https://user-images.githubusercontent.com/80690729/129879894-ba622330-e039-48a6-aa55-a51495fe5ef5.gif)
+
 
 **<이재현>**
 - 메인페이지 (슬라이드 기능)
