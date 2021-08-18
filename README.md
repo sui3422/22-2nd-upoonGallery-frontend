@@ -32,6 +32,10 @@
 Slack / Git + GitHub / Trello, Notion를 이용해 일정관리, 현황을 관리하였습니다. 
 
 
+### 프로젝트 후기
+https://velog.io/@sui3422/Upoon-Gallery-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+
+
 ### Front-End 구현 기능
 
 **<이종민>**
