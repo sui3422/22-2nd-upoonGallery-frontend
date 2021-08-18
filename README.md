@@ -16,7 +16,7 @@
 
 ### 데모 영상
 
-<a href="https://youtu.be/OOkNGPRC4F0">데모영상 클릭</a>
+<a href="https://youtu.be/OOkNGPRC4F0">웃픈갤러리 시연영상 클릭</a>
 
 <br>
 
